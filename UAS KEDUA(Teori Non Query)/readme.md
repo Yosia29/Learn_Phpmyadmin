@@ -8,7 +8,8 @@ seorang user boleh membuat banyak todo item setiap todo item memiliki todo item 
 Sebelum membuat sebuah todo user harus membuat minimal satu atau lebih category, kategory ini mempunyai category id yang unik dan info mengenai category name yang memiliki panjang minimal 5 karakter dan maksimal 20 karakter.
 
 Sebuah category dapat digunakan pada banyak todo item dan satu todo item wajib memiliki satu kategory, tidak ada todo item yang tidak memiliki kategori.
-![image](https://github.com/Yosia29/Learn_Phpmyadmin/assets/160198067/a388c2bb-a823-43e5-8424-362044f20650)
+![image](https://github.com/Yosia29/Learn_Phpmyadmin/assets/160198067/0b8be595-93b7-4958-8565-c4dfdf5fa221)
+
 
 
 <h2>SOAL 2</h2><br>
